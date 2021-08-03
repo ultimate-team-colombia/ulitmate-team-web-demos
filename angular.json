@@ -25,6 +25,7 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [],
             "styles": [
+              "boostrap/"
               "src/styles.scss"
             ],
             "scripts": []
